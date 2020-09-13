@@ -1,0 +1,20 @@
+{
+  "name": "bunny-lite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "dependencies": {
+    "collections": "^5.1.8",
+    "date-and-time": "^0.6.3",
+    "discord.js": "^11.4.2",
+    "node-schedule": "^1.3.2",
+    "request": "^2.88.0",
+    "website-scraper": "^4.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
